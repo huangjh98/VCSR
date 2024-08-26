@@ -1,9 +1,6 @@
-# Visual Contextual Semantic Reasoning for Cross-Modal Drone Image-Text Retrieval
+# [Visual Contextual Semantic Reasoning for Cross-Modal Drone Image-Text Retrieval](https://ieeexplore.ieee.org/document/10634572)
 
 ##### Author: Jinghao Huang 
-
-## [VCSR](https://ieeexplore.ieee.org/document/10634572)
-
 --------------------------
 ## Environment
 
