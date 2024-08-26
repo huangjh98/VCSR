@@ -8,7 +8,7 @@
 ### -------------------------------------------------------------------------------------
 
 ##
-## [VCSR](VCSR/README.md)
+## [VCSR](https://ieeexplore.ieee.org/document/10634572)
 
 --------------------------
 ## Environment
@@ -22,7 +22,7 @@ tqdm 4.64.0
 
 --------------------------
 ## Dataset
-We use the following 2 datasets: ERA Image-Text Dataset and UDV Image-Text Dataset.
+We use the following 2 datasets: ERA Image-Text Dataset and UDV Image-Text Dataset. [Dataset download link](VCSR/README.md)
 
 --------------------------
 ## Train
