@@ -13,7 +13,7 @@ tqdm 4.64.0
 
 --------------------------
 ## Dataset
-We use the following 2 datasets: ERA Image-Text Dataset and UDV Image-Text Dataset. [Dataset download link](VCSR/README.md)
+We use the following 2 datasets: ERA Image-Text Dataset and UDV Image-Text Dataset. [Dataset download link](https://pan.baidu.com/s/1ZVNe-H3GIJ4HHinqyKf3qQ?pwd=ul7f)
 
 --------------------------
 ## Train
